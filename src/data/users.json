@@ -1,0 +1,284 @@
+{
+    "results": [{
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Artemisa",
+            "last": "Nevinchana"
+        },
+        "location": {
+            "street": {
+                "number": 3221,
+                "name": "Zigzag"
+            },
+            "city": "Zinkiv",
+            "state": "Kirovogradska",
+            "country": "Ukraine",
+            "postcode": 16340,
+            "coordinates": {
+                "latitude": "80.4811",
+                "longitude": "116.5126"
+            },
+            "timezone": {
+                "offset": "+5:45",
+                "description": "Kathmandu"
+            }
+        },
+        "email": "artemisa.nevinchana@example.com",
+        "login": {
+            "uuid": "194b5557-1b73-4400-a81b-235844225548",
+            "username": "saddog278",
+            "password": "barfly",
+            "salt": "REmsdbyH",
+            "md5": "1b38adaf561e7c64f0bcfaff288eebf8",
+            "sha1": "2a4e4ef4ccec4bd9c0ec54d24c448e5e3987e3e2",
+            "sha256": "ae0db9614660e21114eb8a2e3a92d2f84c6d322586dadd2d342713738cb763dc"
+        },
+        "dob": {
+            "date": "1963-08-30T16:52:51.876Z",
+            "age": 61
+        },
+        "registered": {
+            "date": "2012-07-30T20:39:21.513Z",
+            "age": 12
+        },
+        "phone": "(067) D13-3257",
+        "cell": "(067) S84-8832",
+        "id": {
+            "name": "",
+            "value": null
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/28.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
+        },
+        "nat": "UA"
+    }, {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Carmelo",
+            "last": "López"
+        },
+        "location": {
+            "street": {
+                "number": 6754,
+                "name": "Ronda de Toledo"
+            },
+            "city": "Arrecife",
+            "state": "Islas Baleares",
+            "country": "Spain",
+            "postcode": 56106,
+            "coordinates": {
+                "latitude": "38.9931",
+                "longitude": "-115.3286"
+            },
+            "timezone": {
+                "offset": "-5:00",
+                "description": "Eastern Time (US & Canada), Bogota, Lima"
+            }
+        },
+        "email": "carmelo.lopez@example.com",
+        "login": {
+            "uuid": "be6dd535-2373-4af1-a862-b230c740be3e",
+            "username": "angrypeacock930",
+            "password": "crazybab",
+            "salt": "AjQllaWE",
+            "md5": "6ea78dd3a5271f62058bc798f46a11d8",
+            "sha1": "1379b21a3f8cf0e7a9009f7533c0640096cd29c7",
+            "sha256": "bcaa258991246525a78f7051fcf2d29890c3f1b54a00a24b14fa47873a11fc99"
+        },
+        "dob": {
+            "date": "1956-04-28T09:34:30.080Z",
+            "age": 68
+        },
+        "registered": {
+            "date": "2021-02-10T15:48:53.379Z",
+            "age": 4
+        },
+        "phone": "956-786-604",
+        "cell": "667-608-577",
+        "id": {
+            "name": "DNI",
+            "value": "95874486-V"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/3.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+        },
+        "nat": "ES"
+    }, {
+        "gender": "female",
+        "name": {
+            "title": "Ms",
+            "first": "تارا",
+            "last": "حسینی"
+        },
+        "location": {
+            "street": {
+                "number": 2099,
+                "name": "جلال آل احمد"
+            },
+            "city": "اراک",
+            "state": "کردستان",
+            "country": "Iran",
+            "postcode": 58834,
+            "coordinates": {
+                "latitude": "-83.0781",
+                "longitude": "27.2091"
+            },
+            "timezone": {
+                "offset": "+9:30",
+                "description": "Adelaide, Darwin"
+            }
+        },
+        "email": "tr.hsyny@example.com",
+        "login": {
+            "uuid": "acd9a069-ca0c-48cc-b8dc-76dad9a41ce3",
+            "username": "sadelephant708",
+            "password": "socks",
+            "salt": "hA0YTkTp",
+            "md5": "7967e90a686ee63e34406768b9d06ab8",
+            "sha1": "d02e71d50142b50450b47df68ed2039c2765a3ba",
+            "sha256": "c43d020bb237c8fad8175330d44c1f3c76349a965b6a9f5188a8d117e3ff7643"
+        },
+        "dob": {
+            "date": "1959-05-30T12:49:09.187Z",
+            "age": 65
+        },
+        "registered": {
+            "date": "2010-03-20T09:56:26.966Z",
+            "age": 15
+        },
+        "phone": "072-00183399",
+        "cell": "0983-478-9708",
+        "id": {
+            "name": "",
+            "value": null
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/8.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+        },
+        "nat": "IR"
+    }, {
+        "gender": "female",
+        "name": {
+            "title": "Ms",
+            "first": "غزل",
+            "last": "سالاری"
+        },
+        "location": {
+            "street": {
+                "number": 7332,
+                "name": "فداییان اسلام"
+            },
+            "city": "کرمان",
+            "state": "خراسان رضوی",
+            "country": "Iran",
+            "postcode": 14217,
+            "coordinates": {
+                "latitude": "-56.7079",
+                "longitude": "-160.8694"
+            },
+            "timezone": {
+                "offset": "0:00",
+                "description": "Western Europe Time, London, Lisbon, Casablanca"
+            }
+        },
+        "email": "gzl.slry@example.com",
+        "login": {
+            "uuid": "c816fdb2-b3db-43a4-a1c3-011e65efc56b",
+            "username": "smallfrog945",
+            "password": "francine",
+            "salt": "z1erMVS6",
+            "md5": "91df94ebc36d6f4ff81e73051bea6a87",
+            "sha1": "ce66cd39ac27ba0612a8d89d5402a809d82f80b4",
+            "sha256": "40b6b3aa48e0761b947e3b6344e3033d44cccddcdb1021351c0c890721089034"
+        },
+        "dob": {
+            "date": "1949-01-03T11:38:36.645Z",
+            "age": 76
+        },
+        "registered": {
+            "date": "2014-05-23T07:22:25.910Z",
+            "age": 10
+        },
+        "phone": "039-09251301",
+        "cell": "0967-327-0534",
+        "id": {
+            "name": "",
+            "value": null
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/1.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+        },
+        "nat": "IR"
+    }, {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Mehmet",
+            "last": "Demirel"
+        },
+        "location": {
+            "street": {
+                "number": 4209,
+                "name": "Vatan Cd"
+            },
+            "city": "Kastamonu",
+            "state": "Manisa",
+            "country": "Turkey",
+            "postcode": 63636,
+            "coordinates": {
+                "latitude": "65.0245",
+                "longitude": "154.6680"
+            },
+            "timezone": {
+                "offset": "+3:00",
+                "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+            }
+        },
+        "email": "mehmet.demirel@example.com",
+        "login": {
+            "uuid": "b0e9d84b-7b9e-4506-914a-cbe5c5f1906f",
+            "username": "brownelephant723",
+            "password": "john316",
+            "salt": "jfYJgo9e",
+            "md5": "21adc93ebc7a5287dcf29f78220d9224",
+            "sha1": "ba16938358275ee2140fe743dcc01a8f58a03788",
+            "sha256": "b6abbc1052c32726c6ba69bcf1f5d5ecee07bf4ff0db6a8c6d843170f9d3af8c"
+        },
+        "dob": {
+            "date": "1981-09-20T03:15:05.623Z",
+            "age": 43
+        },
+        "registered": {
+            "date": "2016-04-08T02:13:00.906Z",
+            "age": 9
+        },
+        "phone": "(779)-796-9343",
+        "cell": "(813)-117-6243",
+        "id": {
+            "name": "",
+            "value": null
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/26.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+        },
+        "nat": "TR"
+    }],
+    "info": {
+        "seed": "1ae597ef91898e58",
+        "results": 5,
+        "page": 1,
+        "version": "1.4"
+    }
+}
